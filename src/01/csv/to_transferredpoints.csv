@@ -1,0 +1,17 @@
+id;checkingpeer;checkedpeer;pointsamount
+1;deannven;sellersh;1
+2;ninetalm;deannven;1
+5;deannven;ninetalm;1
+8;dimasik;georgean;1
+9;dimasik;umberbun;1
+10;oraoraora;georgean;1
+4;deannven;umberbun;2
+3;ninetalm;georgean;2
+7;dimasik;deannven;2
+11;georgean;deannven;1
+6;umberbun;deannven;3
+12;deannven;deannven;1
+13;deannven;peer_for_dr;1
+14;umberbun;peer_for_dr;1
+15;umberbun;peer_for_dr2;1
+16;dimasik;peer_for_dr3;1

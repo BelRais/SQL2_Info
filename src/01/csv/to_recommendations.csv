@@ -1,0 +1,14 @@
+id;peer;recommendedpeer
+1;sellersh;umberbun
+2;sellersh;dimasik
+3;ninetalm;dimasik
+4;ninetalm;georgean
+5;deannven;dimasik
+6;deannven;georgean
+7;oraoraora;dimasik
+8;georgean;deannven
+9;georgean;ninetalm
+10;umberbun;deannven
+11;umberbun;sellersh
+12;dimasik;deannven
+13;dimasik;sellersh
